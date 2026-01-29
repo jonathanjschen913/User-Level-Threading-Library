@@ -1,0 +1,17 @@
+*.o
+*.d
+*.log
+*.out
+*.stackdump
+*~
+lock
+main
+crash
+preemptive
+wait_kill
+wait_many
+wait
+wakeup
+signal
+broadcast
+deadlock
